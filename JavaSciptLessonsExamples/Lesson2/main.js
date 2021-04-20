@@ -244,3 +244,24 @@
 //        link()   ->dəyişkənin dəyərinə link xüsusiyyəti verir parametr hissəsi isə linkin  'href' hissənini doldurur.
 //                     var metn = "Google";
 //                     document.write(metn.link("http://google.com");
+
+
+
+// function infoData(e){
+//     document.write("Ad:" + e);
+// }
+
+// infoData('Muhammad');
+
+// const ad = "MuhammadElshan";
+// const netice = ad.length;
+// document.write(netice);
+
+// const infoCount = 5;
+// const infoCountNumb = 10;
+
+// document.write(eval("infoCount+infoCountNumb"));
+
+// const ad = "MuhammadElshan"; 
+// const netice = ad.search('s');
+// document.write(netice);
